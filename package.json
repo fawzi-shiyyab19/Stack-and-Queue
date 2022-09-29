@@ -1,0 +1,26 @@
+{
+  "name": "stack-and-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawzi-shiyyab19/Stack-and-Queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fawzi-shiyyab19/Stack-and-Queue/issues"
+  },
+  "homepage": "https://github.com/fawzi-shiyyab19/Stack-and-Queue#readme",
+  "dependencies": {
+    "jest": "^29.1.1",
+    "node": "^18.10.0"
+  },
+  "devDependencies": {}
+}
